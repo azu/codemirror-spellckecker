@@ -7,15 +7,14 @@
     "spell",
     "lint"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/azu/codemirror-spellckecker/",
   "repository": {
     "type": "git",
     "url": "https://github.com/azu/codemirror-spellckecker.git"
   },
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "directories": {
     "test": "test/"
   },
