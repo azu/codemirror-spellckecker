@@ -1,0 +1,27 @@
+{
+  "name": "codemirror-spellckecker",
+  "description": "CodeMirror + SpellChecker + QuickFix",
+  "keywords": [
+    "CodeMirror",
+    "SpellChecker",
+    "spell",
+    "lint"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/azu/codemirror-spellckecker/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/codemirror-spellckecker.git"
+  },
+  "main": "index.js",
+  "scripts": {
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/codemirror-spellckecker/issues"
+  }
+}

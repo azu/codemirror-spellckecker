@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="ja">
+    <meta charset="UTF-8">
+    <title>CodeMirror + Lint typo</title>
+    <script src="node_modules/codemirror/lib/codemirror.js"></script>
+    <script src="node_modules/codemirror/addon/mode/overlay.js"></script>
+    <script src="node_modules/codemirror/mode/javascript/javascript.js"></script>
+    <script src="node_modules/codemirror/mode/markdown/markdown.js"></script>
+    <script src="node_modules/codemirror/mode/gfm/gfm.js"></script>
+    <!--Lint-->
+    <script src="lib/lint-typo.js"></script>
+    <script src="lib/register-spell-dictionary.js"></script>
+    <link rel="stylesheet" type="text/css" href="node_modules/codemirror/lib/codemirror.css">
+    <link rel="stylesheet" type="text/css" href="node_modules/codemirror/addon/lint/lint.css">
+</head>
+<body>
+<textarea id="js-main-editor"></textarea>
+<script src="app/app.js"></script>
+</body>
+</html>
