@@ -936,3 +936,4 @@ var editor = CodeMirror.fromTextArea(document.getElementById("js-main-editor"), 
     gutters: ["CodeMirror-lint-markers"],
     lintTypo: true
 });
+editor.setValue("Java Script is not JavaScript.\n\nウェプアプリはクッキーを発行する。");
