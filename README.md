@@ -4,6 +4,8 @@
 
 Japanese : [WEB+DB PRESS用語統一ルール](https://gist.github.com/inao/f55e8232e150aee918b9 " WEB+DB PRESS用語統一ルール") を元に技術用語のLintを行う事を目的にしています。
 
+DEMO: http://azu.github.io/codemirror-spellckecker/
+
 ## Installation
 
 ```
