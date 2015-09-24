@@ -14,6 +14,10 @@
     "url": "https://github.com/azu/codemirror-spellckecker.git"
   },
   "main": "index.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "scripts": {},
   "directories": {
     "test": "test/"
