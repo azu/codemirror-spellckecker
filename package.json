@@ -22,5 +22,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/azu/codemirror-spellckecker/issues"
+  },
+  "devDependencies": {
+    "codemirror": "^5.7.0"
   }
 }
